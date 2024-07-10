@@ -27,7 +27,7 @@ twitter_username: jekyllrb
 github_username:  rollinghelicopter1
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
