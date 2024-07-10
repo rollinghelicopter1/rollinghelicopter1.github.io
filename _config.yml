@@ -28,7 +28,7 @@ github_username:  rollinghelicopter1
 
 # Build settings
 #theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
